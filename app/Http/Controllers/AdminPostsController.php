@@ -3,8 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Http\Requests\PostRequest;
 //use App\Http\Requests;
+use App\Http\Requests\PostRequest;
 use App\Post;
 
 class AdminPostsController extends Controller
